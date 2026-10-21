@@ -38,7 +38,7 @@ There are no other dependencies.
 ## Installation
 
 ```bash
-git clone https://gitlab.com/giuliomaffei90/screenplay-writer.git
+git clone https://github.com/giuliomaffei90/screenplay-writer.git
 cd screenplay-writer
 ./build.sh --install
 ```
